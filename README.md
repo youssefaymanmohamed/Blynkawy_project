@@ -17,6 +17,6 @@ Once the app is installed and running, you can start adding and controlling your
 
 For any inquiries or support, please contact us at [youssefaymanmoghamed1@gmail.com](mailto:youssefaymanmoghamed1@gmail.com) and [begadtamim.a@gmail.com](mailto:begadtamim.a@gmail.com).
 
-## Mockup Ad
+## Mockup 
 
 ![Mockup](assets/Mockup.png)
