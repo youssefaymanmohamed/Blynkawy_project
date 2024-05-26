@@ -1,0 +1,49 @@
+name: project
+description: "A new Flutter project."
+
+publish_to: 'none' 
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.1 <4.0.0'
+
+
+dependencies:
+  flutter:    #provides the core flutter framework
+    sdk: flutter
+
+  lottie: ^1.0.0 #provides the lottie animations
+  cupertino_icons: ^1.0.6 #provides the icons for the app
+  image_picker: ^0.8.4+3 #provides the image picker for the app
+  curved_navigation_bar: ^1.0.3 # curved navigation bar for the app
+  firebase_core: ^2.31.1
+  firebase_auth: ^4.19.6
+  google_sign_in: ^5.2.1
+  shared_preferences: ^2.0.0
+  tflite_v2: ^1.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+  flutter_lints: ^3.0.0
+  flutter_launcher_icons: ^0.13.1
+
+
+flutter:
+
+  
+  uses-material-design: true
+
+  # To add assets to your application, add an assets section, like this:
+  assets:
+  - assets/
+  - assets/icons/
+  - assets/models/
+
+flutter_launcher_icons:
+    android: true
+    image_path: "assets/icon.png"
+
