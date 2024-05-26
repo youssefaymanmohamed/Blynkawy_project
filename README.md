@@ -1,17 +1,22 @@
-[# project
+# Blynkawy
 
-A new Flutter project.
+**Blynkawy** is a smart home application developed using Flutter. It allows users to control and monitor their smart home devices seamlessly. The app offers a user-friendly interface, secure authentication, and real-time updates to enhance your smart home experience.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- **Device Control**: Control various smart home devices such as lights, thermostats, and security cameras.
+- **Real-Time Monitoring**: Monitor the status of your devices in real-time.
+- **Secure Authentication**: Ensure the security of your data with secure login and authentication.
+- **Integrated-AI**: Has Object detection AI model that help identifing the objects
 
-A few resources to get you started if this is your first Flutter project:
+## Usage
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Once the app is installed and running, you can start adding and controlling your smart home devices. The user interface is designed to be intuitive, with clearly labeled buttons and options for each device type.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-](https://github.com/youssefaymanmohamed/Blynkawy_project)
+## Contact
+
+For any inquiries or support, please contact us at [youssefaymanmoghamed1@gmail.com](mailto:youssefaymanmoghamed1@gmail.com) and [begadtamim.a@gmail.com](mailto:begadtamim.a@gmail.com).
+
+## Mockup Ad
+
+![Mockup](assets/Mockup.png)
